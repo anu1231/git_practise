@@ -1,3 +1,5 @@
 [master (root-commit) 5caea89] this is a practise project
  1 file changed, 1 insertion(+)
  create mode 100644 simple.txt
+ 
+ I dont know why this is not commited for the first time. but now it got commitied successfully.....
